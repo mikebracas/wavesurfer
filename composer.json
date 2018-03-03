@@ -2,8 +2,9 @@
     "name": "mikebracas/yii2-wavesurfer",
     "description": "wavesurfer",
     "type": "yii2-extension",
-    "keywords": ["yii2","wavesurfer"],
-    "license": "GPL-2.0",
+    "keywords": ["yii2","wavesurfer","audio grafic"],
+    "homepage": "https://github.com/mikebracas/wavesurfer",
+    "license": "MIT",
     "authors": [
         {
             "name": "mikebracas",
