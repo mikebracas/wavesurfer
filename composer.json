@@ -1,0 +1,21 @@
+{
+    "name": "mikebracas/yii2-wavesurfer",
+    "description": "wavesurfer",
+    "type": "yii2-extension",
+    "keywords": ["yii2","wavesurfer"],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "mikebracas",
+            "email": "spmikebracas@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "mikebraca\\wavesurfer\\": ""
+        }
+    }
+}
